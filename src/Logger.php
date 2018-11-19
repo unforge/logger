@@ -9,14 +9,14 @@
  * @license http://opensource.org/licenses/MIT MIT
  */
 
-namespace Unforge\LoggerToolkit;
+namespace Unforge\Toolkit;
 
 /**
- * Class Tools
+ * Class Logger
  *
- * @package Unforge\LoggerToolkit
+ * @package Unforge\Toolkit
  */
-final class Tools
+class Logger
 {
-
+    // todo
 }
